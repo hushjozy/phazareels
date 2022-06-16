@@ -1,0 +1,26 @@
+ [
+    {
+        "id":1,
+        "name":"God of War",
+        "desc":"A tale of the spartan warrior turned god",
+        "url":"./strange.jpg"
+    },
+    {
+        "id":2,
+        "name":"Goddess of War",
+        "desc":"A tale of the spartan warrior turned god",
+        "url":"./strange.jpg"
+    },
+    {
+        "id":3,
+        "name":"Godson of War",
+        "desc":"A tale of the spartan warrior turned god",
+        "url":"./strange.jpg"
+    },
+    {
+        "id":4,
+        "name":"Godfather of War",
+        "desc":"A tale of the spartan warrior turned god",
+        "url":"./strange.jpg"
+    }
+]
